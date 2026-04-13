@@ -24,7 +24,7 @@ rag_project/
 │── requirements.txt
 ⚙️ Installation
 Clone the repository:
-git clone https://github.com/your-username/rag-project.git
+git clone [yours]
 cd rag-project
 Install dependencies:
 pip install -r requirements.txt
